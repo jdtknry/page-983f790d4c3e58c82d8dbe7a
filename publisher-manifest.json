@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "023eab4d0d912202d490a641",
+  "owner": "jdtknry",
+  "repo": "page-983f790d4c3e58c82d8dbe7a",
+  "title": "小火箭id",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "983f790d4c3e58c82d8dbe7a",
+      "a": "小火箭id",
+      "b": "",
+      "entity": "小火箭id",
+      "brand": "小火箭id",
+      "separator": "",
+      "path": "index.html",
+      "hash": "53464965036edd7ce82df2afd972be6c27c531b630537928fbf82b7815a11200",
+      "content": {
+        "keyword1": "小火箭id",
+        "keyword2": "",
+        "primary_entity": "小火箭id",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭id 提供 X VPN 机场订阅与客户端下载服务，帮助您实现网络加速和隐私保护。",
+          "AI_DESCRIPTION": "小火箭id 提供 X VPN 机场订阅与客户端下载服务，帮助您实现网络加速和隐私保护。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\n  body {\n    font-family: Arial, sans-serif;\n    background-color: #f8f9fa;\n    color: #333;\n    line-height: 1.6;\n    max-width: 900px;\n    margin: 0 auto;\n    padding: 20px;\n  }\n  h1 {\n    color: #6b5b95;\n    font-size: 2.5em;\n    text-align: center;\n    margin-bottom: 30px;\n  }\n  .cards {\n    display: flex;\n    flex-wrap: wrap;\n    gap: 20px;\n    justify-content: center;\n  }\n  .card {\n    background: #ffffff;\n    border: 2px solid #e2e8f0;\n    border-radius: 8px;\n    padding: 20px;\n    box-shadow: 0 4px 6px rgba(0,0,0,0.1);\n    flex: 1 1 280px;\n    min-width: 280px;\n  }\n  .card.featured {\n    border-color: #8B5CF6;\n    box-shadow: 0 0 15px rgba(139, 92, 246, 0.3);\n  }\n  .features {\n    list-style: none;\n    padding: 0;\n    margin: 15px 0;\n  }\n  .features li {\n    padding: 8px 0;\n    color: #555;\n  }\n  .faq-details {\n    margin: 20px 0;\n  }\n  summary {\n    font-weight: bold;\n    color: #6b5b95;\n    cursor: pointer;\n    font-size: 1.1em;\n  }\n  .answer {\n    margin-top: 10px;\n    color: #444;\n  }\n  @media (max-width: 600px) {\n    body {\n      padding: 10px;\n    }\n    h1 {\n      font-size: 2em;\n    }\n    .cards {\n      flex-direction: column;\n    }\n  }\n</style>\n\n\n<main>\n  <h1>小火箭id</h1>\n  <section id=\"intro\">\n    <h2>品牌简介</h2>\n    <p>小火箭id 是一款专为用户设计的 X VPN 加速器，基于 X机场 平台，提供高速稳定的网络连接。无论个人使用还是团队协作，我们都致力于为您提供最佳的网络加速体验。</p>\n  </section>\n  <section id=\"scenarios\">\n    <h2>使用场景</h2>\n    <p>小火箭id 适用于多种场景，包括：</p>\n    <ul>\n      <li>流媒体平台解锁（如 Netflix、YouTube）</li>\n      <li>在线游戏加速</li>\n      <li>企业远程办公</li>\n      <li>个人隐私保护</li>\n      <li>机场订阅与客户端下载</li>\n    </ul>\n  </section>\n  <section id=\"operations\">\n    <h2>操作说明</h2>\n    <h3>下载与订阅</h3>\n    <ol>\n      <li>访问官网下载客户端</li>\n      <li>选择合适的套餐进行订阅</li>\n      <li>安装后连接节点享受加速</li>\n    </ol>\n  </section>\n  <section id=\"plans\">\n    <h2>套餐对比</h2>\n    <div class=\"cards\">\n      <div class=\"card\">\n        <h3>基础版</h3>\n        <p>¥15/月 | 按年付仅需 ¥150/年</p>\n        <ul class=\"features\">\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n      </div>\n      <div class=\"card featured\">\n        <h3>旗舰版</h3>\n        <p>¥35/月 | 按年付仅需 ¥350/年</p>\n        <ul class=\"features\">\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n      </div>\n      <div class=\"card\">\n        <h3>团队版</h3>\n        <p>¥85/月 | 按年付仅需 ¥850/年</p>\n        <ul class=\"features\">\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n      </div>\n    </div>\n  </section>\n  <section id=\"faq\">\n    <h2>常见问题</h2>\n    <div class=\"faq-details\">\n      <details>\n        <summary>1. 小火箭id 支持哪些设备？</summary>\n        <div class=\"answer\">小火箭id 支持 Windows、Mac、iOS、Android 及路由器等多种设备。</div>\n      </details>\n    </div>\n    <div class=\"faq-details\">\n      <details>\n        <summary>2. 如何获取机场订阅？</summary>\n        <div class=\"answer\">您可以登录官网进行订阅，或通过官方渠道获取 X VPN 机场订阅服务。</div>\n      </details>\n    </div>\n    <div class=\"faq-details\">\n      <details>\n        <summary>3. 不同套餐有何区别？</summary>\n        <div class=\"answer\">基础版适合个人使用，旗舰版提供更好流媒体解锁和游戏加速，团队版适合企业用户。</div>\n      </details>\n    </div>\n    <div class=\"faq-details\">\n      <details>\n        <summary>4. 客服支持如何？</summary>\n        <div class=\"answer\">旗舰版及以上套餐提供 7x24 优先工单支持，团队版有专属客户经理。</div>\n      </details>\n    </div>\n    <div class=\"faq-details\">\n      <details>\n        <summary>5. 流量如何计算？</summary>\n        <div class=\"answer\">流量以每月使用量为准，超出部分可能有额外计费或加速限制。</div>\n      </details>\n    </div>\n    <div class=\"faq-details\">\n      <details>\n        <summary>6. 如何下载客户端？</summary>\n        <div class=\"answer\">请访问官网获取最新版客户端，安装后按照提示连接节点。</div>\n      </details>\n    </div>\n  </section>\n  <section>\n    <h2>友情链接</h2>\n    <p>更多网络服务：<a href=\"#plans\">套餐详情</a> | <a href=\"#faq\">FAQ</a></p>\n    <div>\n      广告：快速上网，稳定连接 | 小火箭id 官方\n    </div>\n  </section>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "01b557fb7f56656869f30309ddd3331099d3121776c91df08d388e7ca187ec38",
+          "seo": {
+            "title": "小火箭id | X VPN 机场订阅与客户端下载 | 高速网络加速",
+            "keywords": "小火箭id, X VPN, 机场订阅, 客户端下载, VPN加速器, 网络加速, X机场",
+            "description": "小火箭id 提供 X VPN 机场订阅与客户端下载服务，帮助您实现网络加速和隐私保护。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "6hz9dz.cn",
+    "host": "p-8b88c91011.6hz9dz.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "368388e88536cf16ca59381099c81176689f287455cdd5d944f5d1bcbc4413c7",
+    "sitemap.xml": "5e1c5ab8984fb0546334bc0b1f668a1354a821b18884aa80593fce3d5b303d8e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "05a8be05b5827107a75d202d3410f90c3f27b3bce2de3a925b16c921376d68b2",
+    "robots.txt": "3c9424b0625165aa17a18df2eb636ea123887c97d92d54bd9e222a1c4cca8e06",
+    "18e201ca9bee215cd81ed7c27c980ff2.txt": "a226849c7e3263f291660bb96bd07d2a8ced18fc4b5634d9bded74329f79e0c0"
+  },
+  "revision": "83b3a69bf70d4ceb2ca62b2e7edee31f7914e5d1b7f963068b3ba1e34cc9f287"
+}
